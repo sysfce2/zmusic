@@ -38,6 +38,8 @@ INTERFACE
 	zmusic/configuration.cpp
 	zmusic/zmusic.cpp
 	zmusic/critsec.cpp
+	zmusic/file_zip.cpp
+	
 	loader/test.c
 )
 
